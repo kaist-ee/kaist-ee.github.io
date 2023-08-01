@@ -4,7 +4,7 @@ module Jekyll
     def initialize(tag_name, markup, tokens)
       super
       @characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-      @length = 10
+      @length = 16
     end
 
     def render(context)
