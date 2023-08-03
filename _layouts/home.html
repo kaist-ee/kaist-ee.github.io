@@ -5,14 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>KAIST EE Computer Division</title>
-  <link href="/static/css/bootstrap.min.css?id={% random_string %}" rel="stylesheet">
-  <link rel="stylesheet" href="/static/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/static/css/jquery.bxslider.css">
-  <link rel="stylesheet" type="text/css" href="/static/css/isotope.css" media="screen" />
-  <link rel="stylesheet" href="/static/css/animate.css">
-  <link rel="stylesheet" href="/static/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-  <link href="/static/css/prettyPhoto.css" rel="stylesheet" />
-  <link href="/static/css/style.css?id={% random_string %}" rel="stylesheet" />
+  <link href="/site_media/static/css/bootstrap.min.css?id={% random_string %}" rel="stylesheet">
+  <link rel="stylesheet" href="/site_media/static/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/site_media/static/css/jquery.bxslider.css">
+  <link rel="stylesheet" type="text/css" href="/site_media/static/css/isotope.css" media="screen" />
+  <link rel="stylesheet" href="/site_media/static/css/animate.css">
+  <link rel="stylesheet" href="/site_media/static/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+  <link href="/site_media/static/css/prettyPhoto.css" rel="stylesheet" />
+  <link href="/site_media/static/css/style.css?id={% random_string %}" rel="stylesheet" />
 </head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LVK54NSDMB"></script>
@@ -66,7 +66,7 @@
     </nav>
   </header>
 
-  <!--<li><img style="" src="/static/img/wordle.png" alt="" /></li>-->
+  <!--<li><img style="" src="/site_media/static/img/wordle.png" alt="" /></li>-->
   <div class="container">
     <div
       style="position: relative;height:0; padding-bottom: 56.25%; margin: 40px 0px; max-width:1200px; max-height:700px">
@@ -93,7 +93,20 @@
               href="https://ee.kaist.ac.kr">School of Electrical Engineering</a> at KAIST. </p>
         </div>
 
-        <!-- TODO: professors -->
+<!-- TODO: professors -->
+{% for prof in site.data.professors %}
+<div class="col-md-3" style="height: 400px;">
+  <!--<a href="/profile/{{prof.id|add:"-1" }}">-->
+  <a href="{{ prof.lab_site }}">
+
+    <img src="{{ prof.avatar_url }}" style="height: 200px;width: 200px; object-fit: cover;" alt="">
+    <h3>{{ prof.name }}</h3>
+    <p> {{prof.lab_name}} </p>
+  </a>
+  <p style="font-size:18px;"><a href="{{ prof.lab_site }}"> {{ prof.lab_name }}</a></p>
+</div>
+{% endfor %}
+
 
       </div>
     </div>
@@ -131,15 +144,15 @@
       </div>
     </div>
   </footer>
-  <script src="/static/js/jquery-2.1.1.min.js"></script>
-  <script src="/static/js/bootstrap.min.js"></script>
-  <script src="/static/js/wow.min.js"></script>
-  <script src="/static/js/fancybox/jquery.fancybox.pack.js"></script>
-  <script src="/static/js/jquery.easing.1.3.js"></script>
-  <script src="/static/js/jquery.bxslider.min.js"></script>
-  <script src="/static/js/jquery.prettyPhoto.js"></script>
-  <script src="/static/js/jquery.isotope.min.js"></script>
-  <script src="/static/js/functions.js"></script>
+  <script src="/site_media/static/js/jquery-2.1.1.min.js"></script>
+  <script src="/site_media/static/js/bootstrap.min.js"></script>
+  <script src="/site_media/static/js/wow.min.js"></script>
+  <script src="/site_media/static/js/fancybox/jquery.fancybox.pack.js"></script>
+  <script src="/site_media/static/js/jquery.easing.1.3.js"></script>
+  <script src="/site_media/static/js/jquery.bxslider.min.js"></script>
+  <script src="/site_media/static/js/jquery.prettyPhoto.js"></script>
+  <script src="/site_media/static/js/jquery.isotope.min.js"></script>
+  <script src="/site_media/static/js/functions.js"></script>
   <script>
     wow = new WOW(
       {
