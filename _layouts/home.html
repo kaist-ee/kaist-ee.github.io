@@ -24,9 +24,6 @@
   gtag('config', 'G-LVK54NSDMB');
 </script>
 
-
-
-
 <!-- content -->
 
 <body>
@@ -79,8 +76,6 @@
     </div>
   </div>
 
-  {{ content }}
-
   <div id="about-us" class="about-us">
     <div class="container">
       <div class="feature-add  text-left">
@@ -93,25 +88,22 @@
               href="https://ee.kaist.ac.kr">School of Electrical Engineering</a> at KAIST. </p>
         </div>
 
-<!-- TODO: professors -->
-{% for prof in site.data.professors %}
-<div class="col-md-3" style="height: 400px;">
-  <!--<a href="/profile/{{prof.id|add:"-1" }}">-->
-  <a href="{{ prof.lab_site }}">
+        {% for prof in site.data.professors %}
+        <div class="col-md-3" style="height: 400px;">
+          <!--<a href="/profile/{{prof.id|add:"-1" }}">-->
+          <a href="{{ prof.lab_site }}">
 
-    <img src="{{ prof.avatar_url }}" style="height: 200px;width: 200px; object-fit: cover;" alt="">
-    <h3>{{ prof.name }}</h3>
-    <p> {{prof.lab_name}} </p>
-  </a>
-  <p style="font-size:18px;"><a href="{{ prof.lab_site }}"> {{ prof.lab_name }}</a></p>
-</div>
-{% endfor %}
-
+            <img src="{{ prof.avatar_url }}" style="height: 200px;width: 200px; object-fit: cover;" alt="">
+            <h3>{{ prof.name }}</h3>
+            <p> {{prof.lab_name}} </p>
+          </a>
+          <p style="font-size:18px;"><a href="{{ prof.lab_site }}"> {{ prof.lab_name }}</a></p>
+        </div>
+        {% endfor %}
 
       </div>
     </div>
   </div>
-
 
   <footer>
     <div class="footer">
@@ -162,6 +154,4 @@
   </script>
 
 </body>
-
-
 </html>
