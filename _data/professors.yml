@@ -92,3 +92,8 @@
   avatar_url: site_media/media/user_profile/None/binsu.jpeg
   lab_name: Hacking Lab
   lab_site: https://insuyun.github.io/
+
+- name: Jaemin Yoo
+  avatar_url: site_media/media/user_profile/None/jaemin_yoo.png
+  lab_name: Data AI Lab
+  lab_site: https://dai.kaist.ac.kr/
