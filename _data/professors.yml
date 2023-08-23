@@ -83,6 +83,11 @@
   lab_name: "LeArning in Networking:  Algorithm, Design and Analysis"
   lab_site: https://yung-web.github.io/home/
 
+- name: Jaemin Yoo
+  avatar_url: site_media/media/user_profile/None/jaemin_yoo.png
+  lab_name: Data AI Lab
+  lab_site: https://dai.kaist.ac.kr/
+
 - name: Chan-Hyun Youn
   avatar_url: site_media/media/user_profile/None/bbxecx9cxa4xecxb0xacxedx98x84_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Network &amp; Computing Lab
@@ -92,8 +97,3 @@
   avatar_url: site_media/media/user_profile/None/binsu.jpeg
   lab_name: Hacking Lab
   lab_site: https://insuyun.github.io/
-
-- name: Jaemin Yoo
-  avatar_url: site_media/media/user_profile/None/jaemin_yoo.png
-  lab_name: Data AI Lab
-  lab_site: https://dai.kaist.ac.kr/
