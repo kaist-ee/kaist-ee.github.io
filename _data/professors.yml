@@ -3,7 +3,7 @@
   lab_name: Media Network Lab
   lab_site: https://sites.google.com/view/mnlabkaist/home?authuser=0
 
-- name: Song Chong
+- name: Song Chong (Adjunct)
   avatar_url: /site_media/media/user_profile/None/bbxecxa0x95xecx86xa1_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Network Systems Lab
   lab_site: http://netsys.kaist.ac.kr/
@@ -58,7 +58,7 @@
   lab_name: Unmanned System Research Group
   lab_site: http://unmanned.kaist.ac.kr/
 
-- name: Kijung Shin
+- name: Kijung Shin (Adjunct)
   avatar_url: site_media/media/user_profile/None/bbxecx8bxa0xeaxb8xb0xecxa0x95_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Data Mining Lab
   lab_site: https://sites.google.com/view/kaistdata
@@ -68,7 +68,7 @@
   lab_name: Network and System Secuirty Lab
   lab_site: http://nss.kaist.ac.kr/
 
-- name: Jinwoo Shin
+- name: Jinwoo Shin (Adjunct)
   avatar_url: site_media/media/user_profile/None/bbxecx8bxa0xecxa7x84xecx9axb0_xeaxb5x90xecx88x98xebx8bx98.png
   lab_name: Algorithmic Intelligence Lab
   lab_site: http://alinlab.kaist.ac.kr/
@@ -82,11 +82,6 @@
   avatar_url: site_media/media/user_profile/None/bbxecx9bx90xecx9cxa0xecxa7x91_xeaxb5x90xecx88x98xebx8bx98.png
   lab_name: Operating Systems Lab
   lab_site: https://oslab.kaist.ac.kr/
-
-- name: Yung Yi
-  avatar_url: site_media/media/user_profile/None/bbxecx9dxb4xecx9cxb5_xeaxb5x90xecx88x98xebx8bx98.jpg
-  lab_name: "LeArning in Networking:  Algorithm, Design and Analysis"
-  lab_site: https://yung-web.github.io/home/
 
 - name: Jaemin Yoo
   avatar_url: site_media/media/user_profile/None/jaemin_yoo.png
