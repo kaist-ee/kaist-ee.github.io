@@ -13,6 +13,11 @@
   lab_name: Intelligent Network Architecture Lab
   lab_site: http://ina.kaist.ac.kr/
 
+- name: Insu Han
+  avatar_url: site_media/media/user_profile/None/Han_insu.jpg
+  lab_name: Flexible Machine Learning Lab
+  lab_site: https://insuhan.github.io/
+
 - name: Myoungsoo Jung
   avatar_url: site_media/media/user_profile/None/myoungsoo_jung.jpg
   lab_name: Computer Architecture Non-Volatile Memory and Operating Systems Lab
@@ -92,10 +97,5 @@
   avatar_url: site_media/media/user_profile/None/binsu.jpeg
   lab_name: Hacking Lab
   lab_site: https://insuyun.github.io/
-
-- name: Insu Han
-  avatar_url: site_media/media/user_profile/None/Han_insu.jpg
-  lab_name: Flexible Machine Learning Lab
-  lab_site: https://insuhan.github.io/
 
 
