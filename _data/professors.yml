@@ -3,6 +3,11 @@
   lab_name: Media Network Lab
   lab_site: https://sites.google.com/view/mnlabkaist/home?authuser=0
 
+- name: Sunghyun Choi
+  avatar_url: site_media/media/user_profile/None/Choi_Sunghyun.jpg
+  lab_name: AI-Native Networking Lab
+  lab_site: https://sites.google.com/view/sunghyun-chois-home
+
 - name: Song Chong (Adjunct)
   avatar_url: /site_media/media/user_profile/None/song_chong.jpg
   lab_name: Network Systems Lab
@@ -37,6 +42,11 @@
   avatar_url: site_media/media/user_profile/None/yongdae_kim_profile.jpg
   lab_name: System Security Lab
   lab_site: https://www.syssec.kr/
+
+- name: Seulki Lee
+  avatar_url: site_media/media/user_profile/None/seulki_lee.jpg
+  lab_name: Embedded AI Lab
+  lab_site: https://sites.google.com/view/embeddedai
 
 - name: Sung-Ju Lee
   avatar_url: site_media/media/user_profile/None/bsungju_profile.jpg
