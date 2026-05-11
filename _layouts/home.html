@@ -58,7 +58,7 @@
                   <ul class="dropdown-menu">
                     <li><a href="/#section-faculty">Faculty</a></li>
                     <li><a href="/#section-adjunct">Adjunct Professor</a></li>
-                    <li><a href="/#section-memoriam">In Memoriam</a></li>
+                    <li><a href="/#section-emeritus">Emeritus Professor</a></li>
                   </ul>
                 </li>
                 <!--<li role="presentation"><a href="news.html">News</a></li>
@@ -130,10 +130,10 @@
         {% endfor %}
         </div>
 
-        <h2 id="section-memoriam" style="margin-top: 40px; margin-bottom: 30px; font-size: 28px; font-weight: bold; border-bottom: 2px solid #ddd; padding-bottom: 10px;">In Memoriam</h2>
+        <h2 id="section-emeritus" style="margin-top: 40px; margin-bottom: 30px; font-size: 28px; font-weight: bold; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Emeritus Professor</h2>
         <div class="row">
         {% for prof in site.data.professors %}
-          {% if prof.category == "memoriam" %}
+          {% if prof.category == "emeritus" %}
           <div class="col-md-3" style="height: 400px;">
             <a href="{{ prof.lab_site }}">
               <img src="{{ prof.avatar_url }}" style="height: 200px;width: 200px; object-fit: cover;" alt="">

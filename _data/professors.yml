@@ -123,3 +123,27 @@
   lab_name: Algorithmic Intelligence Lab
   lab_site: http://alinlab.kaist.ac.kr/
   category: adjunct
+
+- name: Tag-Gon Kim
+  avatar_url: site_media/media/user_profile/None/kim_taggon.jpg
+  lab_name:
+  lab_site:
+  category: emeritus
+
+- name: Hong-Shik Park
+  avatar_url: site_media/media/user_profile/None/park_hongshik.jpg
+  lab_name:
+  lab_site:
+  category: emeritus
+
+- name: Kyu Ho Park
+  avatar_url: site_media/media/user_profile/None/park_kyuho.jpg
+  lab_name:
+  lab_site:
+  category: emeritus
+
+- name: Dan Keun Sung
+  avatar_url: site_media/media/user_profile/None/sung_dankeun.jpg
+  lab_name:
+  lab_site:
+  category: emeritus
