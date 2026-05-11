@@ -2,7 +2,7 @@
   avatar_url: /site_media/media/user_profile/None/bbxecxb5x9cxecxa4x80xeaxb7xa0_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Media Network Lab
   lab_site: https://sites.google.com/view/mnlabkaist/home?authuser=0
-  category: faculty
+  category: emeritus
 
 - name: Sunghyun Choi
   avatar_url: site_media/media/user_profile/None/Choi_Sunghyun.jpg
@@ -98,7 +98,7 @@
   avatar_url: site_media/media/user_profile/None/bbxecx9cxa4xecxb0xacxedx98x84_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Network &amp; Computing Lab
   lab_site: http://ncl.kaist.ac.kr/
-  category: faculty
+  category: emeritus
 
 - name: Insu Yun
   avatar_url: site_media/media/user_profile/None/binsu.jpeg
@@ -124,26 +124,3 @@
   lab_site: http://alinlab.kaist.ac.kr/
   category: adjunct
 
-- name: Tag-Gon Kim
-  avatar_url: site_media/media/user_profile/None/kim_taggon.jpg
-  lab_name:
-  lab_site:
-  category: emeritus
-
-- name: Hong-Shik Park
-  avatar_url: site_media/media/user_profile/None/park_hongshik.jpg
-  lab_name:
-  lab_site:
-  category: emeritus
-
-- name: Kyu Ho Park
-  avatar_url: site_media/media/user_profile/None/park_kyuho.jpg
-  lab_name:
-  lab_site:
-  category: emeritus
-
-- name: Dan Keun Sung
-  avatar_url: site_media/media/user_profile/None/sung_dankeun.jpg
-  lab_name:
-  lab_site:
-  category: emeritus
