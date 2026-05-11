@@ -2,110 +2,124 @@
   avatar_url: /site_media/media/user_profile/None/bbxecxb5x9cxecxa4x80xeaxb7xa0_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Media Network Lab
   lab_site: https://sites.google.com/view/mnlabkaist/home?authuser=0
+  category: faculty
 
 - name: Sunghyun Choi
   avatar_url: site_media/media/user_profile/None/Choi_Sunghyun.jpg
   lab_name: AI-Native Networking Lab
   lab_site: https://sites.google.com/view/sunghyun-chois-home
-
-- name: Song Chong (Adjunct)
-  avatar_url: /site_media/media/user_profile/None/song_chong.jpg
-  lab_name: Network Systems Lab
-  lab_site: http://netsys.kaist.ac.kr/
+  category: faculty
 
 - name: Dongsu Han
   avatar_url: /site_media/media/user_profile/None/bbxedx95x9cxebx8fx99xecx88x98_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Intelligent Network Architecture Lab
   lab_site: http://ina.kaist.ac.kr/
+  category: adjunct
 
 - name: Insu Han
   avatar_url: site_media/media/user_profile/None/Han_insu.jpg
   lab_name: Flexible Machine Learning Lab
   lab_site: https://insuhan.github.io/
+  category: faculty
 
 - name: Myoungsoo Jung
   avatar_url: site_media/media/user_profile/None/myoungsoo_jung.jpg
   lab_name: Computer Architecture Non-Volatile Memory and Operating Systems Lab
   lab_site: http://camelab.org/pmwiki.php/
+  category: faculty
 
 - name: Dongjun Kim
   avatar_url: site_media/media/user_profile/None/bbxeaxb9x80xebx8fx99xecxa4x80_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Computer System &amp; Network Lab
   lab_site: http://icn.kaist.ac.kr/
+  category: faculty
 
 - name: Song Min Kim
   avatar_url: site_media/media/user_profile/None/song_min_kim.jpg
   lab_name: Smart and Mobile Systems Lab
   lab_site: https://sites.google.com/view/smilelab/
+  category: faculty
 
 - name: Yongdae Kim
   avatar_url: site_media/media/user_profile/None/yongdae_kim_profile.jpg
   lab_name: System Security Lab
   lab_site: https://www.syssec.kr/
+  category: faculty
 
 - name: Seulki Lee
   avatar_url: site_media/media/user_profile/None/seulki_lee.jpg
   lab_name: Embedded AI Lab
   lab_site: https://sites.google.com/view/embeddedai
+  category: faculty
 
 - name: Sung-Ju Lee
   avatar_url: site_media/media/user_profile/None/bsungju_profile.jpg
   lab_name: Networking &amp; Mobile Systems Lab
   lab_site: https://nmsl.kaist.ac.kr/
+  category: faculty
 
 - name: Ian Oakley
   avatar_url: site_media/media/user_profile/None/ian_oakley.jpg
   lab_name: Wearable and Interactive Technology Lab
   lab_site: https://sites.google.com/view/kaist-witlab/home?authuser=0
+  category: faculty
 
 - name: Minsoo Rhu
   avatar_url: site_media/media/user_profile/None/bbxecx9cxa0xebxafxbcxecx88x98_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Vertically Integrated Architecture Research Group
   lab_site: https://sites.google.com/view/kaist-via/
+  category: faculty
 
 - name: Hyunchul Shim
   avatar_url: site_media/media/user_profile/None/bbxecx8bxacxedx98x84xecxb2xa0_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Unmanned System Research Group
   lab_site: http://unmanned.kaist.ac.kr/
-
-- name: Kijung Shin (Adjunct)
-  avatar_url: site_media/media/user_profile/None/kijung_shin.jpg
-  lab_name: Data Mining Lab
-  lab_site: https://sites.google.com/view/kaistdata
+  category: faculty
 
 - name: Seungwon Shin
   avatar_url: site_media/media/user_profile/None/seungwon_shin.png
   lab_name: Network and System Secuirty Lab
   lab_site: http://nss.kaist.ac.kr/
-
-- name: Jinwoo Shin (Adjunct)
-  avatar_url: site_media/media/user_profile/None/jinwoo_shin.jpg
-  lab_name: Algorithmic Intelligence Lab
-  lab_site: http://alinlab.kaist.ac.kr/
+  category: faculty
 
 - name: Steven Euijong Whang
   avatar_url: site_media/media/user_profile/None/bbxedx99xa9xecx9dx98xecxa2x85_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Data Intelligence Lab
   lab_site: https://sites.google.com/view/whanglab/di-lab?authuser=0
+  category: faculty
 
 - name: Youjip Won
   avatar_url: site_media/media/user_profile/None/youjip_won.jpg
   lab_name: Operating Systems Lab
   lab_site: https://oslab.kaist.ac.kr/
-
-- name: Jaemin Yoo
-  avatar_url: site_media/media/user_profile/None/jaemin_yoo.png
-  lab_name: Data AI Lab
-  lab_site: https://dai.kaist.ac.kr/
+  category: faculty
 
 - name: Chan-Hyun Youn
   avatar_url: site_media/media/user_profile/None/bbxecx9cxa4xecxb0xacxedx98x84_xeaxb5x90xecx88x98xebx8bx98.jpg
   lab_name: Network &amp; Computing Lab
   lab_site: http://ncl.kaist.ac.kr/
+  category: faculty
 
 - name: Insu Yun
   avatar_url: site_media/media/user_profile/None/binsu.jpeg
   lab_name: Hacking Lab
   lab_site: https://insuyun.github.io/
+  category: faculty
 
+- name: Song Chong
+  avatar_url: /site_media/media/user_profile/None/song_chong.jpg
+  lab_name: Network Systems Lab
+  lab_site: http://netsys.kaist.ac.kr/
+  category: adjunct
 
+- name: Kijung Shin
+  avatar_url: site_media/media/user_profile/None/kijung_shin.jpg
+  lab_name: Data Mining Lab
+  lab_site: https://sites.google.com/view/kaistdata
+  category: adjunct
+
+- name: Jinwoo Shin
+  avatar_url: site_media/media/user_profile/None/jinwoo_shin.jpg
+  lab_name: Algorithmic Intelligence Lab
+  lab_site: http://alinlab.kaist.ac.kr/
+  category: adjunct
